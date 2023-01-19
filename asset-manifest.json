@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4447a7bd.css",
+    "main.js": "/static/js/main.0c5c6378.js",
+    "static/media/cat@2x.png": "/static/media/cat@2x.70607d2c16734b84a536.png",
+    "static/media/cat.png": "/static/media/cat.58676bb34b670741bded.png",
+    "static/media/Pattern.png": "/static/media/Pattern.7858f3d0f9b100e9018a.png",
+    "static/media/exo20-thin-webfont.woff": "/static/media/exo20-thin-webfont.99a2d5ccf998c10b5568.woff",
+    "static/media/trebuchetms-webfont.woff": "/static/media/trebuchetms-webfont.5ff7b8922af164622dd3.woff",
+    "static/media/trebuchetms-bold-webfont.woff": "/static/media/trebuchetms-bold-webfont.46c78a58ec2a8194ceac.woff",
+    "static/media/trebuchetms-webfont.woff2": "/static/media/trebuchetms-webfont.9baa7619e43e60faefc9.woff2",
+    "static/media/trebuchetms-bold-webfont.woff2": "/static/media/trebuchetms-bold-webfont.781a9dfb2742369d1d16.woff2",
+    "index.html": "/index.html",
+    "main.4447a7bd.css.map": "/static/css/main.4447a7bd.css.map",
+    "main.0c5c6378.js.map": "/static/js/main.0c5c6378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4447a7bd.css",
+    "static/js/main.0c5c6378.js"
+  ]
+}
