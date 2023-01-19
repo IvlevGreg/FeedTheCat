@@ -1,0 +1,9 @@
+:root {
+  --color-main: #ffffff;
+  --color-secondary: #000000;
+  --color-additional: #666666;
+  --color-disabled: #ffff66;
+
+  --color-card-disabled: #b3b3b3;
+  --color-card-link: #1698d9;
+}

@@ -1,0 +1,10 @@
+/* background */
+:root {
+  --bac-card: #f2f2f2;
+
+  --bac-card-weigh: #1698d9;
+  --bac-card-weigh-hover: #2ea8e6;
+  --bac-card-weigh-selected: #d91667;
+  --bac-card-weigh-selected-hover: #e52e7a;
+  --bac-card-weigh-disabled: #b3b3b3;
+}
