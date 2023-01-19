@@ -6,6 +6,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './components/app/App';
 
+import './fonts/fonts.css';
 import './index.css';
 import './css-variables/backgound.css';
 import './css-variables/border.css';
