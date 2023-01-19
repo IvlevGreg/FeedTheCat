@@ -1,0 +1,11 @@
+.property {
+  margin: 0 0 0;
+
+  color: var(--color-additional);
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.propertyValue {
+  font-weight: 700;
+}
