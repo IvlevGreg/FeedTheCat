@@ -9,14 +9,3 @@
   font-size: 36px;
   line-height: 44px;
 }
-
-.container {
-  padding: 20px 0;
-  width: 100%;
-}
-
-@media screen and (min-width: 712px) {
-  .container {
-    padding: 36px 0;
-  }
-}
