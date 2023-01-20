@@ -31,6 +31,7 @@
   border: none;
 
   cursor: pointer;
+  transition: opacity 0.3s ease;
 }
 
 .topContent {
@@ -255,6 +256,10 @@
 
 .content:hover {
   @include border(var(--bor-card-hover));
+}
+
+.content:active {
+  opacity: 0.9;
 }
 
 // .content:focus:not(:active) {
