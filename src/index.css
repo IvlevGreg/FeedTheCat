@@ -4,6 +4,9 @@ body {
   max-width: 1120px;
   min-width: 320px;
   min-height: 100vh;
+  /* enable IE to fill the screen vertically 
+  even if the content is not tall enough.  */
+  height: 100px;
 
   margin: 0 auto;
   display: flex;
