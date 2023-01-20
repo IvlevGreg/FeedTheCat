@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/feed-the-cat/static/css/main.48123991.css",
-    "main.js": "/feed-the-cat/static/js/main.16ef7b2d.js",
+    "main.css": "/feed-the-cat/static/css/main.60e36165.css",
+    "main.js": "/feed-the-cat/static/js/main.0c5c6378.js",
     "static/media/cat@2x.png": "/feed-the-cat/static/media/cat@2x.70607d2c16734b84a536.png",
     "static/media/cat.png": "/feed-the-cat/static/media/cat.58676bb34b670741bded.png",
     "static/media/Pattern.png": "/feed-the-cat/static/media/Pattern.7858f3d0f9b100e9018a.png",
@@ -11,11 +11,11 @@
     "static/media/trebuchetms-webfont.woff2": "/feed-the-cat/static/media/trebuchetms-webfont.9baa7619e43e60faefc9.woff2",
     "static/media/trebuchetms-bold-webfont.woff2": "/feed-the-cat/static/media/trebuchetms-bold-webfont.781a9dfb2742369d1d16.woff2",
     "index.html": "/feed-the-cat/index.html",
-    "main.48123991.css.map": "/feed-the-cat/static/css/main.48123991.css.map",
-    "main.16ef7b2d.js.map": "/feed-the-cat/static/js/main.16ef7b2d.js.map"
+    "main.60e36165.css.map": "/feed-the-cat/static/css/main.60e36165.css.map",
+    "main.0c5c6378.js.map": "/feed-the-cat/static/js/main.0c5c6378.js.map"
   },
   "entrypoints": [
-    "static/css/main.48123991.css",
-    "static/js/main.16ef7b2d.js"
+    "static/css/main.60e36165.css",
+    "static/js/main.0c5c6378.js"
   ]
 }
