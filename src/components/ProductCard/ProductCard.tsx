@@ -41,17 +41,15 @@ export function ProductCard({
   }
 
   return (
-    <li
-      className={styles.card}
-      onMouseEnter={mouseEnterEvent}
-      onMouseLeave={mouseLeaveEvent}
-    >
+    <li className={styles.card}>
       <button
         className={`${styles.content}  ${
           isSelected && styles.contentSelected
         } ${isSelectedHover && styles.contentSelectedHover}
         } `}
         onClick={handleContent}
+        onMouseEnter={mouseEnterEvent}
+        onMouseLeave={mouseLeaveEvent}
         disabled={isDisabled}
       >
         <div className={styles.topContent}>
